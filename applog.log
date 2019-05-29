@@ -1,0 +1,12 @@
+09/10/2018 22:36:20.593 REG APP (instance) thread #20 - /data/folder1/file1.csv  INFO: was filtered
+09/10/2018 22:36:20.671 REG APP (instance) thread #20 - /data/folder2/file2.csv  INFO: transferred to:/data/dest_folder2 on remote host: 107.46.25.31
+09/10/2018 22:36:20.675 REG APP (instance) thread #20 - /data/folder1/file3.csv  INFO: transferred to:/data/dest_folder1 on remote host: 107.46.25.31
+09/10/2018 22:36:20.676 REG APP (instance) thread #20 - /data/folder1/file10.csv  ERROR failed authorization on remote host: 106.41.28.33
+09/10/2018 22:36:20.678 REG APP (instance) thread #20 - /data/folder3/file4.csv  INFO: transferred to:/data/dest_folder3 on remote host: 107.46.25.31
+09/10/2018 22:36:20.769 REG APP (instance) thread #20 - /data/folder1/file5.csv  INFO: transferred to:/data/dest_folder1 on remote host: 107.46.25.31
+09/10/2018 22:36:20.771 REG APP (instance) thread #20 - /data/folder2/file6.csv  INFO: was filtered
+09/10/2018 22:36:20.773 REG APP (instance) thread #20 - /data/folder1/file7.csv  INFO: transferred to:/data/dest_folder1 on remote host: 107.46.25.31
+09/10/2018 22:36:20.845 REG APP (instance) thread #20 - /data/folder4/file8.csv  INFO: transferred to:/data/dest_folder4 on remote host: 107.46.25.31
+09/10/2018 22:36:20.850 REG APP (instance) thread #20 - /data/folder1/file9.csv  INFO: transferred to:/data/dest_folder1 on remote host: 107.46.25.31
+09/10/2018 22:36:20.852 REG APP (instance) thread #20 - /data/folder0/file0.csv  INFO: was filtered
+09/10/2018 22:36:11.852 REG APP (instance) thread #20 - /data/folder0/file11.csv  ERROR no space left on remote host 107.46.25.31
